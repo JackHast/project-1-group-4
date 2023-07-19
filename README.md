@@ -12,6 +12,7 @@ In this study, an extensive dataset from different sources was gathered of data 
 3- Compare hospital beds and the number of testing to the number of Covid-19 cases
 
 
+
 1- What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
 
 The dataset contains about 240 countries in total, with dates ranging from early 2020 to late 2022. Before conducting the analysis, the dataset was QC’ed and cleaned. The following was removed from the dataset.
