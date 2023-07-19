@@ -1,0 +1,1 @@
+geoapify_key = "bbbcaa7cf8874bf0b557bd847a6666e7"
