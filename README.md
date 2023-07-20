@@ -70,7 +70,7 @@ Next, we looked at the effectiveness of facemasks where we saw that Pearson coef
 
 ![image](https://github.com/JackHast/project-1-group-4/assets/131254350/94bb3a0d-553b-4fe3-b231-4bc857bec29f)
 
-### The assessment of healthcare facilities: hospital beds and number of testing 
+### Assessment of healthcare facilities: hospital beds and number of testing 
 **Comparing hospital beds to the population of the country**
 
 
