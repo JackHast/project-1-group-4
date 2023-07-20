@@ -78,6 +78,11 @@ The outliers shown above are outliers with respect to the income level that the 
 ### Assessment of healthcare facilities: hospital beds and number of testing 
 **Comparing hospital beds to the population of the country**
 
+*	Lower Availability of Hospital Beds: Bolivia, Malaysia, Sweden, and South Africa have fewer hospital beds per 1000 people, indicating lower capacity to accommodate patients.
+*	Moderate Availability of Hospital Beds: Countries like Canada, Denmark, United Kingdom, United States, Ireland, Spain, and others have a moderate number of hospital beds per 1000 people, suggesting a moderate capacity to handle healthcare demands.
+*	Higher Availability of Hospital Beds: Countries including Slovenia, Luxembourg, Switzerland, Estonia, and others have a higher number of hospital beds per 1000 people, indicating a relatively higher capacity to handle healthcare demands.
+
+![image](https://github.com/JackHast/project-1-group-4/blob/main/helena/Hospital%20Beds%20per%201000.png)
 
 **Comparing number of tests to number of COVID-19 cases**
 
