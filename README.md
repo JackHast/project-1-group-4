@@ -11,8 +11,7 @@ In this study, an extensive dataset from different sources was gathered of data 
 3- Compare hospital beds and the number of testing to the number of Covid-19 cases
 
 
-## What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
-1- What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
+### What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
 
 The dataset contains about 240 countries in total, with dates ranging from early 2020 to late 2022. Before conducting the analysis, the dataset was QC’ed and cleaned. The following was removed from the dataset.
 - Any country without cases recoded before vaccine roll-out
@@ -39,8 +38,7 @@ The plot below shows that most countries are from Africa, with a very low to low
 
 ![image](https://github.com/JackHast/project-1-group-4/assets/134576485/f3e53a72-d60d-44ce-aaf3-98a9fe55c860)
 
-
-2- Were government mandates including face covering effective in stopping the spread of covid?
+### Were government mandates including face covering effective in stopping the spread of covid?
 
 For this part of the analysis two indices were used to determine the effectiveness of government mandates designed to stop the spread of covid-19. Firstly, the stringency index, which is on a scale of 0 (no policy) to 100 (strictest possible), is a measure of the severity of 9 separate categories,
 
@@ -72,6 +70,10 @@ Next, we looked at the effectiveness of facemasks where we saw that Pearson coef
 
 ![image](https://github.com/JackHast/project-1-group-4/assets/131254350/94bb3a0d-553b-4fe3-b231-4bc857bec29f)
 
+### The assessment of healthcare facilities: hospital beds and number of testing 
+**Comparing hospital beds to the population of the country**
 
+
+**Comparing number of tests to number of COVID-19 cases**
 
 
