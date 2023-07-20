@@ -85,6 +85,15 @@ The outliers shown above are outliers with respect to the income level that the 
 ![Hospital Beds per 1000](https://github.com/JackHast/project-1-group-4/assets/134599676/657e2ea6-f16e-4264-87c3-360870538242)
 ![Population Year 2020-2022](https://github.com/JackHast/project-1-group-4/assets/134599676/3973ea18-45b7-4f04-8943-04d45ac5f608)
 
+*	Hospital beds per 1000 vs Excess mortality
+The low R-squared indicates a weak relationship between "Hospital beds per 1000" and "Excess Mortality" rates.The availability of hospital beds per 1000 people does not have a strong influence on excess mortality.
+![Excess Mortality vs Hospital Beds](https://github.com/JackHast/project-1-group-4/assets/134599676/5238f731-abdd-49e6-abe5-ab53b1b82c83)
+
+*  GDP per capita vs Excess mortality
+A correlation coefficient of 0.38 between "Excess Mortality" and "GDP per capita" suggests a moderate correlation between these two variables.
+![Excess Mortality vs GDP per capita](https://github.com/JackHast/project-1-group-4/assets/134599676/1573850f-25d7-4e26-8855-794d14d3ca01)
+In summary, the data suggests weak to moderate correlations between "Excess Mortality" and the other variables: "Hospital beds per 1000" and "GDP per capita.
+
 **Comparing number of tests to number of COVID-19 cases**
 
 **Understanding the data:**
