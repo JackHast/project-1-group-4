@@ -63,7 +63,7 @@ Secondly, an index measuring 5 different levels of policy regarding the wearing 
 3 - Required in all public spaces,
 4 - Required outside the home at all 
 
-In the jupyter notebook ipynb file cleaning_data.ipynb these two indices are averaged for all countries (that had a recorded stringency and facemask index) over the period of 1/1/2020 to 31/12/2022. In the file policy_analysis.ipynb, we have firstly plotted these averages for the stringency index against the total cases per million (as of 31/12/2022), where it can be seen that there exists a moderate negative relationship between mean stringency index and total cases per million for upper middle and high income countries.
+In the jupyter notebook ipynb file Jack/cleaning_data.ipynb these two indices are averaged for all countries (that had a recorded stringency and facemask index) over the period of 1/1/2020 to 31/12/2022. In the file Jack/policy_analysis.ipynb, we have firstly plotted these averages for the stringency index against the total cases per million (as of 31/12/2022), where it can be seen that there exists a moderate negative relationship between mean stringency index and total cases per million for upper middle and high income countries.
 
    ![image](https://github.com/JackHast/project-1-group-4/assets/131254350/452cf776-247d-42b8-be23-dea74cc920a1)
 
