@@ -83,6 +83,7 @@ The outliers shown above are outliers with respect to the income level that the 
 *	Higher Availability of Hospital Beds: Countries including Slovenia, Luxembourg, Switzerland, Estonia, and others have a higher number of hospital beds per 1000 people, indicating a relatively higher capacity to handle healthcare demands.
 
 ![image](https://github.com/JackHast/project-1-group-4/blob/main/helena/Hospital%20Beds%20per%201000.png)
+![image](https://github.com/JackHast/project-1-group-4/blob/main/helena/Population%20Year%202020-2022.png)
 
 **Comparing number of tests to number of COVID-19 cases**
 
