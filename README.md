@@ -14,6 +14,13 @@ What were the main factors that contributed to COVID-19 outcomes in 2020 to 2022
 
 This analysis will include COVID-19 data from countries in all continents and focus on COVID-19 data recorded from the beginning of 2020 to the end of 2022.
 
+For further information regarding csv files, data cleaning, code pertaining to data analysis and plots please refer to the following folders in the main branch of our repository: 
+- Folder name: Hussam. Contains relevant information for first subquestion
+- Folder name: Jack. Contains relevant information for second subquestion
+- Folder name: Helena. Contains relevant information for third subquestion specifically hospital beds
+- Folder name: Hajar. Contains relevant information for third subquestion specifically total cases
+
+
 ### What was the incidence (occurrence) of COVID-19 pre and post vaccinations?
 
 The dataset contains about 240 countries in total, with dates ranging from early 2020 to late 2022. Before conducting the analysis, the dataset was QC’ed and cleaned. The following was removed from the dataset.
@@ -114,7 +121,10 @@ Our World in Data and other health organisations recommend increasing testing an
 
 ![image](https://github.com/JackHast/project-1-group-4/assets/130710065/724f09f6-1048-4444-8b34-1623b5412898)
 
-The plot above shows the relationship between daily confirmed cases per million and daily tests per million. This relationship was shown for a specific date i.e. 2nd February 2021. This date was chosen as it was a point in time when there were high COVID-19 cases recorded in several countries around the world. The calculated correlation coefficient of 0.36 indicates a weak positive correlation between two factors. This correlation value could be impacted by the outliers. The calculated outliers are 436.5 for daily confirmed cases and 6561 for daily tests. The points on the plot greater than the outlier values are European and Asian countries which include Slovakia, Denmark and Portugal. 
+The daily_tests_vs_new_cases.csv was cleaned by removing NaN values in the columns titled new_tests_per_thousand_7day_smoothed and Daily new confirmed cases of COVID-19 per million people. Also, names of the countries in the Code column was checked for appropriate country names. There were 121 records remaining once the csv file was cleaned. 
+The plot above shows the relationship between daily confirmed cases per million and daily tests per million. This relationship was shown for a specific date i.e. 2nd February 2021. This date was chosen as it was a point in time when there were high COVID-19 cases recorded in several countries around the world. The calculated correlation coefficient of 0.36 indicates a weak positive correlation between two factors. This correlation value could be impacted by the outliers. The calculated outliers are 436.5 for daily confirmed cases and 6561 for daily tests. The points on the plot greater than the outlier values are European and Asian countries which include Slovakia, Denmark and Portugal.
+
+
 
 
 
