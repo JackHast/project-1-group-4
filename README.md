@@ -57,17 +57,22 @@ For this part of the analysis two indices were used to determine the effectivene
 
 Secondly, an index measuring 5 different levels of policy regarding the wearing of facemasks was used,
 
-0 - No policy
-1 - Recommended
-2 - Required in some public areas
-3 - Required in all public spaces
+0 - No policy,
+1 - Recommended,
+2 - Required in some public areas,
+3 - Required in all public spaces,
 4 - Required outside the home at all 
 
 In the jupyter notebook ipynb file cleaning_data.ipynb these two indices are averaged for all countries (that had a recorded stringency and facemask index) over the period of 1/1/2020 to 31/12/2022. In the file policy_analysis.ipynb, we have firstly plotted these averages for the stringency index against the total cases per million (as of 31/12/2022), where it can be seen that there exists a moderate negative relationship between mean stringency index and total cases per million for upper middle and high income countries.
 
-   Jack/images/stringency_vs_total_cases_HI.png
+   ![image](https://github.com/JackHast/project-1-group-4/assets/131254350/452cf776-247d-42b8-be23-dea74cc920a1)
 
 Initially, all 176 countries were plotted, however, it was noticed that all low income countries and almost all lower middle income countries had comparatively small total cases per million. We believe that this discrepancy between low – lower middle income and upper middle – high income countries may be due to poor reporting of infection numbers in underdeveloped and developing economies. 
+
+Next, we looked at the effectiveness of facemasks where we saw that Pearson coefficient for mean facemask index and total cases per million was -0.3 (weak negative correlation) however any relationship could possibly be explained by the fact that the mean facemask index has a moderate positive relationship with mean stringency index. 
+
+
+
 
 
 
