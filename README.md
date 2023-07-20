@@ -2,6 +2,8 @@
 
 Group Members: Hajar, Helena, Hussam, Jack
 
+##Introduction and Scope of Analysis
+
 In this study, an extensive dataset from different sources was gathered of data in an attempt to address the following.
 
 1- What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
