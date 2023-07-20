@@ -104,7 +104,7 @@ Our World in Data and other health organisations recommend increasing testing an
 
 ![image](https://github.com/JackHast/project-1-group-4/assets/130710065/724f09f6-1048-4444-8b34-1623b5412898)
 
-The plot above shows the relationship between daily confirmed cases per million and daily tests per million. The calculated correlation coefficient of 0.36 indicates a weak positive correlation between two factors. This correlation value could be impacted by the outliers. The calculated outliers are 436.5 for daily confirmed cases and 6561 for daily tests. The points on the plot greater than the outlier values are European and Asian countries which include Slovakia, Denmark and Portugal. 
+The plot above shows the relationship between daily confirmed cases per million and daily tests per million. This relationship was shown for a specific date i.e. 2nd February 2021. This date was chosen as it was a point in time when there were high COVID-19 cases recorded in several countries around the world. The calculated correlation coefficient of 0.36 indicates a weak positive correlation between two factors. This correlation value could be impacted by the outliers. The calculated outliers are 436.5 for daily confirmed cases and 6561 for daily tests. The points on the plot greater than the outlier values are European and Asian countries which include Slovakia, Denmark and Portugal. 
 
 
 
