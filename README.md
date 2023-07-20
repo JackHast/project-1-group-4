@@ -4,11 +4,13 @@ Group Members: Hajar, Helena, Hussam, Jack
 
 In this study, an extensive dataset from different sources was gathered of data in an attempt to address the following.
 
-1- What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
+What were the main factors that contributed to COVID-19 outcomes?
+
+1- What was the incidence (occurrence) of COVID-19 pre and post vaccinations?
 
 2- Were government mandates including face covering effective in stopping the spread of covid?
 
-3- Compare hospital beds and the number of testing to the number of Covid-19 cases
+3- Compare hospital beds and the number of testing to the number of COVID--19 cases
 
 
 ### What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
