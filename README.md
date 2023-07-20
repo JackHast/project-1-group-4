@@ -82,9 +82,8 @@ The outliers shown above are outliers with respect to the income level that the 
 *	Moderate Availability of Hospital Beds: Countries like Canada, Denmark, United Kingdom, United States, Ireland, Spain, and others have a moderate number of hospital beds per 1000 people, suggesting a moderate capacity to handle healthcare demands.
 *	Higher Availability of Hospital Beds: Countries including Slovenia, Luxembourg, Switzerland, Estonia, and others have a higher number of hospital beds per 1000 people, indicating a relatively higher capacity to handle healthcare demands.
 
-![Screenshot 2023-07-20 at 8 05 45 pm](https://github.com/JackHast/project-1-group-4/assets/134599676/14823774-0d8c-43f4-a9f8-342bfe027bae)
-
-![image](https://github.com/JackHast/project-1-group-4/blob/main/helena/Population%20Year%202020-2022.png)
+![Hospital Beds per 1000](https://github.com/JackHast/project-1-group-4/assets/134599676/657e2ea6-f16e-4264-87c3-360870538242)
+![Population Year 2020-2022](https://github.com/JackHast/project-1-group-4/assets/134599676/3973ea18-45b7-4f04-8943-04d45ac5f608)
 
 **Comparing number of tests to number of COVID-19 cases**
 
