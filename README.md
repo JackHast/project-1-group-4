@@ -39,3 +39,35 @@ Bottom 20 Countries (analysis)
 The plot below shows that most countries are from Africa, with a very low to low ratio of population vaccinated. The plot also shows a very low number of total cases recorded before and after the vaccine roll-out. Some countries also showed a reduction in the total number of cases post-vaccine roll-out date. It could be misleading if we try to drive any conclusion from this plot before, firstly, check about the reporting system in these countries, how they define cases, and conduct tests.
 
 ![image](https://github.com/JackHast/project-1-group-4/assets/134576485/f3e53a72-d60d-44ce-aaf3-98a9fe55c860)
+
+
+Policy Analysis:
+
+For this part of the analysis two indices were used to determine the effectiveness of government mandates designed to stop the spread of covid-19. Firstly, the stringency index, which is on a scale of 0 (no policy) to 100 (strictest possible), is a measure of the severity of 9 separate categories,
+
+•	School closures
+•	Workplace closures
+•	Cancellation of public events
+•	Restrictions of public gatherings
+•	Closures of public transport
+•	Stay-at-home requirements
+•	Public information campaigns
+•	Restrictions of internal movements
+•	International travel controls
+
+Secondly, an index measuring 5 different levels of policy regarding the wearing of facemasks was used,
+
+0 - No policy
+1 - Recommended
+2 - Required in some public areas
+3 - Required in all public spaces
+4 - Required outside the home at all 
+
+In the jupyter notebook ipynb file cleaning_data.ipynb these two indices are averaged for all countries (that had a recorded stringency and facemask index) over the period of 1/1/2020 to 31/12/2022. In the file policy_analysis.ipynb, we have firstly plotted these averages for the stringency index against the total cases per million (as of 31/12/2022), where it can be seen that there exists a moderate negative relationship between mean stringency index and total cases per million for upper middle and high income countries.
+
+
+
+Initially, all 176 countries were plotted, however, it was noticed that all low income countries and almost all lower middle income countries had comparatively small total cases per million. We believe that this discrepancy between low – lower middle income and upper middle – high income countries may be due to poor reporting of infection numbers in underdeveloped and developing economies. 
+
+
+
