@@ -1,5 +1,5 @@
 # project-1-group-4
-Project Title: Analysis of Measures Adopted to Stop The Spread -  Covid-19 Pandemic
+#Analysis of Measures Adopted to Stop The Spread -  Covid-19 Pandemic
 
 Group Members: Hajar, Helena, Hussam, Jack
 
