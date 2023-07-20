@@ -14,7 +14,7 @@ What were the main factors that contributed to COVID-19 outcomes in 2020 to 2022
 
 This analysis will include COVID-19 data from countries in all continents and focus on COVID-19 data recorded from the beginning of 2020 to the end of 2022.
 
-### What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
+### What was the incidence (occurrence) of COVID-19 pre and post vaccinations?
 
 The dataset contains about 240 countries in total, with dates ranging from early 2020 to late 2022. Before conducting the analysis, the dataset was QC’ed and cleaned. The following was removed from the dataset.
 - Any country without cases recoded before vaccine roll-out
