@@ -45,15 +45,15 @@ Policy Analysis:
 
 For this part of the analysis two indices were used to determine the effectiveness of government mandates designed to stop the spread of covid-19. Firstly, the stringency index, which is on a scale of 0 (no policy) to 100 (strictest possible), is a measure of the severity of 9 separate categories,
 
-•	School closures
-•	Workplace closures
-•	Cancellation of public events
-•	Restrictions of public gatherings
-•	Closures of public transport
-•	Stay-at-home requirements
-•	Public information campaigns
-•	Restrictions of internal movements
-•	International travel controls
+-	School closures
+-	Workplace closures
+-	Cancellation of public events
+-	Restrictions of public gatherings
+-	Closures of public transport
+-	Stay-at-home requirements
+-	Public information campaigns
+-	Restrictions of internal movements
+-	International travel controls
 
 Secondly, an index measuring 5 different levels of policy regarding the wearing of facemasks was used,
 
