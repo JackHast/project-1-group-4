@@ -85,6 +85,16 @@ The outliers shown above are outliers with respect to the income level that the 
 Different countries publish their data according to different definitions of tests. One difference is that some countries report the number of people tested, while others report the number of tests performed. The number of tests performed can be higher if the same person is tested more than once. Our World in Data has provided documentation for each country that provided source descriptions detailing information on COVID-19 data. 
 
 Testing data in the following section below only includes PCR and antigen tests. In addition, the actual number of COIV-19 cases were likely to be much higher than the number of confirmed cases, this is due to limited testing. 
+To answer this question, the daily_tests_vs_cases.csv file was cleaned by removing all rows that had NaN values in the new_tests column and daily new confirmed cases column. Also, columns were renamed for clarity. 
+
+Positive rate is calculated by dividing 7-day olling average of daily average of daily cases by the 7-day rolling average of daily tests. This is a good measure of how adequately countries are testing. A high positive rate suggests higher transmission of COVID-19 and is concerning. 
+
+
+![image](https://github.com/JackHast/project-1-group-4/assets/130710065/ecfacb47-daac-4702-98d4-3c542a242869)
+
+
+
+
 
 
 
