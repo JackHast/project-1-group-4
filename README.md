@@ -78,6 +78,7 @@ Next, we looked at the effectiveness of facemasks where we saw that Pearson coef
 
 
 **Comparing number of tests to number of COVID-19 cases**
+
 **Understanding the data:**
 Different countries publish their data according to different definitions of tests. One difference is that some countries report the number of people tested, while others report the number of tests performed. The number of tests performed can be higher if the same person is tested more than once. Our World in Data has provided documentation for each country that provided source descriptions detailing information on COVID-19 data. 
 
