@@ -65,7 +65,7 @@ Secondly, an index measuring 5 different levels of policy regarding the wearing 
 
 In the jupyter notebook ipynb file cleaning_data.ipynb these two indices are averaged for all countries (that had a recorded stringency and facemask index) over the period of 1/1/2020 to 31/12/2022. In the file policy_analysis.ipynb, we have firstly plotted these averages for the stringency index against the total cases per million (as of 31/12/2022), where it can be seen that there exists a moderate negative relationship between mean stringency index and total cases per million for upper middle and high income countries.
 
-
+   Jack/images/stringency_vs_total_cases_HI.png
 
 Initially, all 176 countries were plotted, however, it was noticed that all low income countries and almost all lower middle income countries had comparatively small total cases per million. We believe that this discrepancy between low – lower middle income and upper middle – high income countries may be due to poor reporting of infection numbers in underdeveloped and developing economies. 
 
