@@ -4,7 +4,7 @@ Group Members: Hajar, Helena, Hussam, Jack
 
 In this study, an extensive dataset from different sources was gathered of data in an attempt to address the following.
 
-What were the main factors that contributed to COVID-19 outcomes?
+What were the main factors that contributed to COVID-19 outcomes in 2020 to 2022?
 
 1- What was the incidence (occurrence) of COVID-19 pre and post vaccinations?
 
@@ -12,6 +12,7 @@ What were the main factors that contributed to COVID-19 outcomes?
 
 3- Compare hospital beds and the number of testing to the number of COVID--19 cases
 
+This analysis will include COVID-19 data from countries in all continents and focus on COVID-19 data recorded from the beginning of 2020 to the end of 2022.
 
 ### What was the incidence (occurrence) of Covid-a19 pre and post vaccinations?
 
