@@ -41,7 +41,7 @@ The plot below shows that most countries are from Africa, with a very low to low
 ![image](https://github.com/JackHast/project-1-group-4/assets/134576485/f3e53a72-d60d-44ce-aaf3-98a9fe55c860)
 
 
-Policy Analysis:
+2- Were government mandates including face covering effective in stopping the spread of covid?
 
 For this part of the analysis two indices were used to determine the effectiveness of government mandates designed to stop the spread of covid-19. Firstly, the stringency index, which is on a scale of 0 (no policy) to 100 (strictest possible), is a measure of the severity of 9 separate categories,
 
@@ -71,7 +71,7 @@ Initially, all 176 countries were plotted, however, it was noticed that all low 
 
 Next, we looked at the effectiveness of facemasks where we saw that Pearson coefficient for mean facemask index and total cases per million was -0.3 (weak negative correlation) however any relationship could possibly be explained by the fact that the mean facemask index has a moderate positive relationship with mean stringency index. 
 
-
+![image](https://github.com/JackHast/project-1-group-4/assets/131254350/94bb3a0d-553b-4fe3-b231-4bc857bec29f)
 
 
 
